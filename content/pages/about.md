@@ -3,10 +3,13 @@ title: "About me"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I’m a senior software engineer at Buffer. I enjoy building tools that make developers more productive. In my free time, I enjoy writing, reading and playing soccer. My wife thinks that I should have become a writer, but I programming and writing have so much in common that I don’t have to regret my choice.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Here are some other things about me that you might want to know:
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+- I’m originally from Armenia and have a MSc in Computer Science from RIT.
+- I’m the creator of [Cronhub](https://cronhub.io). Cronhub is a cron monitoring tool for developers. It’s my side-business and I share my learnings on [this blog](https://blog.cronhub.io).
+- I’ve created [Booknshelf](https://booknshelf.com)  to help people to keep track of their books online. Since I love reading books I thought this would be a fun project to work on.
+- I was a graduate teaching assistant at RIT teaching Computer Science I, II to undergrads. The curriculum included the basics of computer science, data structures, and algorithms.
+- When I was at RIT I built an online carpooling platform for students called Wheelie. It was my first real side-project. It became the official carpooling platform for RIT students. However, I shut it down in 2016 for personal reasons.
+- I had a summer internship at Twitter NYC in 2014. I worked at the geo team building location-based backend services.
