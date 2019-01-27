@@ -2,7 +2,7 @@
 template: post
 title: Choosing what to work on is hard
 slug: choosing-what-to-work-on-is-hard
-draft: true
+draft: false
 date: 2018-12-11T21:51:33.995Z
 description: >-
   I hosted my friend yesterday for a dinner and we had a very interesting
