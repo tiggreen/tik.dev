@@ -17,6 +17,14 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
+    {
+      label: 'Bookshelf',
+      path: '/pages/bookshelf'
+    },
+    {
+      label: 'Projects',
+      path: '/pages/projects'
+    },
   ],
   author: {
     name: 'Tigran Hakobyan',
