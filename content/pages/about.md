@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-I’m a senior software engineer at Buffer. I enjoy building tools that make developers more productive. In my free time, I enjoy writing, reading and playing soccer. My wife thinks that I should have become a writer, but I programming and writing have so much in common that I don’t have to regret my choice.
+I’m a senior software engineer at Buffer. I enjoy building tools that make developers more productive. In my free time, I enjoy writing, reading and playing soccer. My wife thinks that I should have become a writer, but programming and writing have so much in common that I don’t have to regret my choice. :)
 
 Here are some other things about me that you might want to know:
 
