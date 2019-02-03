@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'Thoughts on building software and developer productivity',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 8,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-121354280-1',
   menu: [
     {
