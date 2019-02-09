@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://tigranhakobyan.com',
   title: 'Tigran Hakobyan\'s personal blog',
-  subtitle: 'Thoughts on building software and developer productivity',
+  subtitle: 'Long-form thoughts on building software',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 5,
@@ -29,7 +29,7 @@ module.exports = {
   author: {
     name: 'Tigran Hakobyan',
     photo: '/tigran.jpg',
-    bio: 'Thoughts on building software & developer productivity',
+    bio: 'Long-form thoughts on building software',
     contacts: {
       email: 'tik.hakobyan@gmail.com',
       telegram: '@tiggreen',
