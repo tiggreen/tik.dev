@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://tigranhakobyan.com',
+  url: 'https://tik.dev',
   title: 'Tigran Hakobyan\'s personal blog',
   subtitle: 'Long-form thoughts on building software',
   copyright: '© All rights reserved.',
