@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-I’m a senior software engineer at Buffer focused on building backend services and infrastructure. I’m very passionate about building tools that make developers more productive. In my free time, I enjoy writing, reading and playing soccer. My wife keeps telling me that I should have become a writer, but I think programming and writing have so much in common that I don’t have to regret my choice. :)
+Hi 👋, I'm Tigran, and I’m a senior software engineer at Buffer focused on building backend services and infrastructure. I’m particularly excited about developer productivity and enjoy thinking about systems and tools that improve developers' workflow. In my free time, I enjoy writing, reading and playing soccer. My wife keeps telling me that I should have become a writer, but I think programming and writing have so much in common that I don’t have to regret my choice. :)
 
 Here are some other things about me that you might want to know:
 
