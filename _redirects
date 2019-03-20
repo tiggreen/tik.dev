@@ -1,2 +1,8 @@
-# Redirect default Netlify subdomain to primary domain
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+https://tigranhakobyan.com/* https://tik.dev/:splat 301!
+https://www.tik.dev/* https://tik.dev/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
 https://tigran.netlify.com/* https://tik.dev/:splat 301!
