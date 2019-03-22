@@ -2,8 +2,9 @@
 
 module.exports = {
   url: 'https://tik.dev',
-  title: 'Tigran Hakobyan\'s personal blog',
-  subtitle: 'Long-form thoughts on building software, developer productivity and life',
+  title: "Tigran Hakobyan's personal blog",
+  subtitle:
+    'Long-form thoughts on building software, developer productivity and life',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 10,
@@ -11,31 +12,32 @@ module.exports = {
   menu: [
     {
       label: 'Blog',
-      path: '/'
+      path: '/',
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/about',
     },
     {
       label: 'Bookshelf',
-      path: '/pages/bookshelf'
+      path: '/pages/bookshelf',
     },
     {
       label: 'Projects',
-      path: '/pages/projects'
+      path: '/pages/projects',
     },
   ],
   author: {
     name: 'Tigran Hakobyan',
     photo: '/tigran.jpg',
-    bio: 'Long-form thoughts on building software',
+    bio:
+      'Long-form thoughts on building software, developer productivity and life',
     contacts: {
       email: 'tik.hakobyan@gmail.com',
       telegram: '@tiggreen',
       twitter: '@tiggreen',
       github: 'tiggreen',
       rss: 'rss.xml',
-    }
-  }
+    },
+  },
 };
