@@ -1,5 +1,5 @@
 ---
-title: What I Learned in My First Year Year as a Solo Founder
+title: What I Learned in My First Year as a Solo Founder
 date: '2019-03-26'
 template: 'post'
 draft: false
