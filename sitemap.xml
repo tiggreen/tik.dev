@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://tik.dev/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tik.dev/2018-year-in-review/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tik.dev/choosing-what-to-work-on-is-hard</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/pages/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tik.dev/choosing-what-to-work-on-is-hard</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tik.dev/2018-year-in-review/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/pages/bookshelf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/lessons-learned</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tik.dev/before-30/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/how-i-acquired-my-first-10-customers-for-cronhub/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/how-to-price-your-side-project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tik.dev/before-30/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://tik.dev/reflections-on-being-a-side-business</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/reflections-on-being-a-remote-developer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://tik.dev/reflections-on-being-a-side-business</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/tag/building-business</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/tag/cronhub</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://tik.dev/tag/personal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
