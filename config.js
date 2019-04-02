@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://tik.dev',
   title: "Tigran Hakobyan's personal blog",
   subtitle:
-    'Long-form thoughts on building software, developer productivity and life',
+    'Long-form thoughts on building software, developer productivity and life.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 10,
@@ -31,7 +31,7 @@ module.exports = {
     name: 'Tigran Hakobyan',
     photo: '/tigran.jpg',
     bio:
-      'Long-form thoughts on building software, developer productivity and life',
+      'Long-form thoughts on building software, developer productivity and life.',
     contacts: {
       email: 'tik.hakobyan@gmail.com',
       telegram: '@tiggreen',
