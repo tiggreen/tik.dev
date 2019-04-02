@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql, StaticQuery } from 'gatsby';
+import { graphql, StaticQuery, Link } from 'gatsby';
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
@@ -18,6 +18,9 @@ export const PureSidebar = ({ data, isIndex }) => {
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
+        <p>
+          Subscribe to my <a href="https://tinyletter.com/tigranh" target="_blank">newsletter</a>
+        </p>
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
       </div>
@@ -42,7 +45,7 @@ export const Sidebar = (props) => (
               name
               photo
               bio
-              contacts {       
+              contacts {
                 twitter
                 telegram
                 github
