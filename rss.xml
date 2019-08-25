@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tigran Hakobyan's personal blog]]></title><description><![CDATA[Long-form thoughts on building software, developer productivity and life]]></description><link>https://tik.dev</link><generator>RSS for Node</generator><lastBuildDate>Tue, 02 Apr 2019 21:57:47 GMT</lastBuildDate><item><title><![CDATA[What I Learned in My First Year as a Solo Founder]]></title><description><![CDATA[In 2018, I decided to start a side-business. I got into writing, found my true professional passion, generated around $4000 net revenue, and met great people who inspired and helped me.]]></description><link>https://tik.dev/lessons-learned</link><guid isPermaLink="false">https://tik.dev/lessons-learned</guid><pubDate>Tue, 26 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tigran Hakobyan's personal blog]]></title><description><![CDATA[Long-form thoughts on building software, developer productivity and life.]]></description><link>https://tik.dev</link><generator>RSS for Node</generator><lastBuildDate>Sun, 25 Aug 2019 15:17:54 GMT</lastBuildDate><item><title><![CDATA[🏝 Remote Work “Office Hours”]]></title><description><![CDATA[Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.]]></description><link>https://tik.dev/office-hours</link><guid isPermaLink="false">https://tik.dev/office-hours</guid><pubDate>Sun, 25 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.&lt;/p&gt;
+&lt;h2&gt;Who am I?&lt;/h2&gt;
+&lt;p&gt;My name is &lt;a href=&quot;https://tik.dev&quot;&gt;Tigran&lt;/a&gt;, and I’m a software engineer at &lt;a href=&quot;https://buffer.com&quot;&gt;Buffer&lt;/a&gt;. Buffer is a remote company with no office. I’ve been working remotely for almost four years now and learned a lot about remote work. Last year I wrote a &lt;a href=&quot;https://medium.com/free-code-camp/reflections-on-being-a-remote-developer-757465ed1e9e&quot;&gt;popular article&lt;/a&gt; where I shared my reflections on being a remote developer. In my free time, I like playing soccer, writing, and working on my &lt;a href=&quot;www.cronhub.io&quot;&gt;side-project&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;&lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/0d3c7274796a8c5867d31ceaae4710d9/97f0b/tigran-hawaii.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/2gAMAwEAAhADEAAAAcdNqZdCA0//xAAaEAABBQEAAAAAAAAAAAAAAAABAAIDESEi/9oACAEBAAEFAiS11PCxT5NXK//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGNf//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwGsf//EAB0QAAIBBAMAAAAAAAAAAAAAAAABMgISEzFhcZH/2gAIAQEABj8CSyE7uyC9KuRGz//EABsQAAMAAgMAAAAAAAAAAAAAAAABESFBUYGh/9oACAEBAAE/IaAqvehNZhwgwJQmlPIdj//aAAwDAQACAAMAAAAQS9//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFx/9oACAEDAQE/EFjMH//EABcRAAMBAAAAAAAAAAAAAAAAAAABEXH/2gAIAQIBAT8Qeo2f/8QAHhABAAIBBAMAAAAAAAAAAAAAAQARITFBYZFxsdH/2gAIAQEAAT8Qcb6n2OYBT4CdjKXKvC+QNLA8GmkVWYw34gBi7uf/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+    &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot; alt=&quot;Tigran in Kauai&quot; title=&quot;&quot; src=&quot;/static/0d3c7274796a8c5867d31ceaae4710d9/d564d/tigran-hawaii.jpg&quot; srcset=&quot;/static/0d3c7274796a8c5867d31ceaae4710d9/865fd/tigran-hawaii.jpg 240w,
+/static/0d3c7274796a8c5867d31ceaae4710d9/d40a0/tigran-hawaii.jpg 480w,
+/static/0d3c7274796a8c5867d31ceaae4710d9/d564d/tigran-hawaii.jpg 960w,
+/static/0d3c7274796a8c5867d31ceaae4710d9/c67c1/tigran-hawaii.jpg 1440w,
+/static/0d3c7274796a8c5867d31ceaae4710d9/667be/tigran-hawaii.jpg 1920w,
+/static/0d3c7274796a8c5867d31ceaae4710d9/85f07/tigran-hawaii.jpg 2880w,
+/static/0d3c7274796a8c5867d31ceaae4710d9/97f0b/tigran-hawaii.jpg 4032w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;figcaption&gt;This year I traveled to Kauai island and worked from there. It was incredible. Very grateful I can do things like this with remote work flexibility. &amp;#x2764;&amp;#xFE0F; &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2&gt;Why “office hours”?&lt;/h2&gt;
+&lt;p&gt;After writing my article about remote work, I started to receive many emails asking questions about my experience of being a remote developer. I hope I can help and share everything I know and learned about remote work. I know it’s a significant lifestyle change when you decide to work remotely, and I hope to help even a little to ease that decision.&lt;/p&gt;
+&lt;h2&gt;Who should attend?&lt;/h2&gt;
+&lt;p&gt;I’m a developer, and I base my remote experience on the type of work I do every day. Knowing what I know, I think I can be the most helpful to people who are in tech and especially developers.&lt;/p&gt;
+&lt;p&gt;Here is a group of people that I have in mind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developers who are not sure whether remote work will be a good fit for them&lt;/li&gt;
+&lt;li&gt;Developers who work remotely and want to be better at it&lt;/li&gt;
+&lt;li&gt;Developers who want to find a remote job&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What’s the structure of the “Office Hours”?&lt;/h2&gt;
+&lt;p&gt;Please introduce yourself first. Like any other “office hours” I expect you to come with your questions and I’ll try to answer them the best I can.&lt;/p&gt;
+&lt;h2&gt;How do I sign up?&lt;/h2&gt;
+&lt;p&gt;You can grab an available time slot on my &lt;strong&gt;&lt;a href=&quot;https://calendly.com/tigranh/remote-work-office-hours-with-tigran&quot;&gt;Calendly schedule&lt;/a&gt;&lt;/strong&gt;. &lt;strong&gt;All calls will be video calls on &lt;a href=&quot;https://zoom.us/&quot;&gt;Zoom&lt;/a&gt;&lt;/strong&gt;. &lt;strong&gt;Please make sure you downloaded and installed Zoom prior our calls&lt;/strong&gt;. The meeting link will be in the calendar invite.&lt;/p&gt;
+&lt;h2&gt;How much time do I have?&lt;/h2&gt;
+&lt;p&gt;I want to keep it for 20 minutes.&lt;/p&gt;
+&lt;h2&gt;Are you doing this by yourself?&lt;/h2&gt;
+&lt;p&gt;Yes. However, I might have surprise guests on some days.&lt;/p&gt;
+&lt;h2&gt;Do I have to pay for this?&lt;/h2&gt;
+&lt;p&gt;No. It’s completely free.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why You Should Start Writing]]></title><description><![CDATA[Less than two years ago, I had almost zero published articles with no audience of readers. I had hardly written any articles in English, and even if I had, they were part of the curriculum I took at school. However, this never stopped me considering myself an aspiring writer.]]></description><link>https://tik.dev/why-to-write</link><guid isPermaLink="false">https://tik.dev/why-to-write</guid><pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f1a0d3e52f871461d37897972391715c/e6391/alvaro-serrano-133360-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFAgb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABeKLHnS4R/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECBBMhMf/aAAgBAQABBQJYsmjty5pHg+n/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABsQAAIBBQAAAAAAAAAAAAAAAAABERIgITFy/9oACAEBAAY/Atspx0Q7P//EABsQAQACAgMAAAAAAAAAAAAAAAEAESGRMUFR/9oACAEBAAE/ISGWZd8fIu9RUdJFiL0ILWhqf//aAAwDAQACAAMAAAAQc/8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EIF//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qo//EAB0QAQEAAgEFAAAAAAAAAAAAAAERACFhMUFRgbH/2gAIAQEAAT8Qse2NAXBqR1+qFa3n0ZI8mWlMEMCteXAsLzWf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Photo by Álvaro Serrano on Unsplash&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f1a0d3e52f871461d37897972391715c/d564d/alvaro-serrano-133360-unsplash.jpg&quot;
+        srcset=&quot;/static/f1a0d3e52f871461d37897972391715c/865fd/alvaro-serrano-133360-unsplash.jpg 240w,
+/static/f1a0d3e52f871461d37897972391715c/d40a0/alvaro-serrano-133360-unsplash.jpg 480w,
+/static/f1a0d3e52f871461d37897972391715c/d564d/alvaro-serrano-133360-unsplash.jpg 960w,
+/static/f1a0d3e52f871461d37897972391715c/c67c1/alvaro-serrano-133360-unsplash.jpg 1440w,
+/static/f1a0d3e52f871461d37897972391715c/667be/alvaro-serrano-133360-unsplash.jpg 1920w,
+/static/f1a0d3e52f871461d37897972391715c/85f07/alvaro-serrano-133360-unsplash.jpg 2880w,
+/static/f1a0d3e52f871461d37897972391715c/e6391/alvaro-serrano-133360-unsplash.jpg 4608w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Less than two years ago, I had almost zero published articles with no audience of readers. I had hardly written any articles in English, and even if I had, they were part of the curriculum I took at school. However, this never stopped me considering myself an aspiring writer. I knew I liked writing a lot and always wanted to share my thoughts with everyone. My biggest challenge was not knowing where and how to start. I was lost because I thought I had nothing original to share with the world. This was a big blocker until I published my first article. The response from my readers was very supportive and encouraging. I realized what readers are looking for is not necessarily new ideas, but rather, a new interpretation of already familiar concepts.&lt;/p&gt;
+&lt;p&gt;This revelation helped me tremendously to keep writing in public. Writing has been life-changing for me because it helped me to become more self-aware, find my professional focus, and meet great people on the web. I hope to inspire you to start the journey of writing.&lt;/p&gt;
+&lt;h2&gt;Communication&lt;/h2&gt;
+&lt;p&gt;We use writing almost everywhere as a way to communicate. However, written communication is not extensively discussed—at least, not as much as verbal communication. We have much praise for public speaking but barely talk about the benefits of public writing, even though in some workplaces we write more than we talk. If we think that remote work is the future, then writing becomes one of the most valuable tools for effective communication.&lt;/p&gt;
+&lt;h2&gt;Self-discovery&lt;/h2&gt;
+&lt;p&gt;I believe that the best way to become a self-aware person is to start writing. Nothing else provides more opportunities to learn about yourself. When you make writing a habit, you start noticing patterns that you continuously fall into. This helps you to unlock your personality, and it’s powerful.&lt;/p&gt;
+&lt;p&gt;“Always produce” is also a heuristic for finding the work you love. If you subject yourself to that constraint, it will automatically push you away from things you think you’re supposed to work on, toward things you actually like. “Always produce” will discover your life’s work the way water, with the aid of gravity, finds the hole in your roof. – “How to do what you love” - &lt;a href=&quot;http://www.paulgraham.com/&quot;&gt;Paul Graham&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Clear mind&lt;/h2&gt;
+&lt;p&gt;I have friends and co-workers who meditate regularly to clear their mind and find inner tranquility. Writing is a form of meditation. Being alone with your words helps you stay focused for a while. Staying focused is challenging; we humans are easily distracted. When you write, there is no outside; everything fits perfectly, and your body and mind speak a common language.&lt;/p&gt;
+&lt;h2&gt;Sharing knowledge&lt;/h2&gt;
+&lt;p&gt;Internet is one of the most significant advantages we have over the previous generation, and we should leverage it. I think &lt;a href=&quot;https://twitter.com/patrickc&quot;&gt;Patrick Collison&lt;/a&gt; once tweeted that the biggest leverage a human can build in the world comes from teaching others to do the same. Sharing our knowledge with each other makes the world a better place. Talent is equally distributed across the world, but opportunities are not, which means that we can build new opportunities for others by sharing what we already know.&lt;/p&gt;
+&lt;h2&gt;Building audience&lt;/h2&gt;
+&lt;p&gt;It took me a while to understand the power of the network. Many things become a lot easier when you have a big network of people who are willing to help and support you. Humans are inherently kind to each other, so why don’t we use it to our advantage? Writing is a great way to build a network of friends and acquaintances. Since I started blogging regularly, I have received many kind emails from strangers. Some of them are my friends now, and we’re in touch frequently. Writing helps you to build an audience and it becomes a great medium for you to find friendships.&lt;/p&gt;
+&lt;h2&gt;Expediting your career&lt;/h2&gt;
+&lt;p&gt;Having a strong online presence and relationships with others on the internet helps tremendously with finding your next job or gig. I haven’t found a better way to build that presence than writing in public. Start a blog because it’s a better way to show off your skills than your resume.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+&lt;p&gt;If you enjoyed reading this article and don’t want to miss my future articles then &lt;a href=&quot;https://tinyletter.com/tigranh&quot;&gt;sign up for my newsletter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;*Photo by &lt;a href=&quot;https://unsplash.com/photos/hjwKMkehBco?utm_source=unsplash&amp;#x26;utm_medium=referral&amp;#x26;utm_content=creditCopyText&quot;&gt;Álvaro Serrano&lt;/a&gt; on Unsplash&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What I Learned in My First Year as a Solo Founder]]></title><description><![CDATA[In 2018, I decided to start a side-business. I got into writing, found my true professional passion, generated around $4000 net revenue, and met great people who inspired and helped me.]]></description><link>https://tik.dev/lessons-learned</link><guid isPermaLink="false">https://tik.dev/lessons-learned</guid><pubDate>Tue, 26 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/d9c4589d8c3c60bdccdaef4abfe6237f/7273b/jad-limcaco-272413-unsplash.jpg&quot;
     style=&quot;display: block&quot;
