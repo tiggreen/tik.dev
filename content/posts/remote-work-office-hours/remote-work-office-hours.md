@@ -10,6 +10,25 @@ tags:
 description: 'Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.'
 ---
 
+<!-- Primary Meta Tags -->
+<title>🏝 Remote Work “Office Hours” - Tigran Hakobyan's personal blog</title>
+<meta name="title" content="🏝 Remote Work “Office Hours” - Tigran Hakobyan's personal blog">
+<meta name="description" content="Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tik.dev/office-hours/">
+<meta property="og:title" content="🏝 Remote Work “Office Hours” - Tigran Hakobyan's personal blog">
+<meta property="og:description" content="Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.">
+<meta property="og:image" content="https://tik.dev/static/0d3c7274796a8c5867d31ceaae4710d9/97f0b/tigran-hawaii.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://tik.dev/office-hours/">
+<meta property="twitter:title" content="🏝 Remote Work “Office Hours” - Tigran Hakobyan's personal blog">
+<meta property="twitter:description" content="Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.">
+<meta property="twitter:image" content="https://tik.dev/static/0d3c7274796a8c5867d31ceaae4710d9/97f0b/tigran-hawaii.jpg">
+
 Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.
 
 
