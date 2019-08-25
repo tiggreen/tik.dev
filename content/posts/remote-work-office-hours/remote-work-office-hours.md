@@ -14,7 +14,7 @@ Today I’m excited to announce my new initiative - Remote Work “Office Hours.
 
 
 ## Who am I?
-My name is [Tigran](https://tik.dev), and I’m a software engineer at [Buffer](https://buffer.com). Buffer is a remote company with no office. I’ve been working remotely for almost four years now and learned a lot about remote work. Last year I wrote a [popular article](https://medium.com/free-code-camp/reflections-on-being-a-remote-developer-757465ed1e9e) where I shared my reflections on being a remote developer. In my free time, I like playing soccer, writing, and working on my [side-project](www.cronhub.io).
+My name is [Tigran](https://tik.dev), and I’m a software engineer at [Buffer](https://buffer.com). Buffer is a remote company with no office. I’ve been working remotely for almost four years now and learned a lot about remote work. Last year I wrote a [popular article](https://medium.com/free-code-camp/reflections-on-being-a-remote-developer-757465ed1e9e) where I shared my reflections on being a remote developer. In my free time, I like playing soccer, writing, and working on my [side-project](https://cronhub.io).
 
 
 <figure><img src="tigran-hawaii.jpg" alt="Tigran in Kauai"/><figcaption>This year I traveled to Kauai island and worked from there. It was incredible. Very grateful I can do things like this with remote work flexibility. ❤️ </figcaption></figure>
