@@ -10,6 +10,9 @@ tags:
 description: 'Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.'
 ---
 
+**UPDATE: I'm pausing the office hours due to the demand. I don't want to go too far in the calendar. I will resume when I finish the calls in this cycle. Thanks for understanding! :)**
+
+
 <!-- Primary Meta Tags -->
 <title>🏝 Remote Work “Office Hours” - Tigran Hakobyan's personal blog</title>
 <meta name="title" content="🏝 Remote Work “Office Hours” - Tigran Hakobyan's personal blog">
