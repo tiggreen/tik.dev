@@ -2,7 +2,7 @@
 title: Things you can do as a developer to make more money
 date: '2019-09-04'
 template: 'post'
-draft: true
+draft: false
 slug: '/make-more-money-as-a-developer'
 category: 'Personal, Business, Makers'
 tags:
@@ -79,7 +79,7 @@ You can start a paid newsletter and write about your niche. If you charge $10 an
 ### Open-source projects
 If you’re a developer who maintains an open-source project, then you can monetize it and get financial support for the work you do. I think this is still a new trend in our industry, but it has a huge potential because a large part of our current digital infrastructure is built upon open-source software. The community of developers who make open-source software used by many companies should get paid fairly. Even though introducing payments might change the dynamics of open-source software, I think financial support is the only way to keep it sustainable.
 
-If you have open-source software, then you can start a [Patreon](https://https://www.patreon.com/) account to get paid. You can make predictable recurring revenue on Patreon by introducing membership tiers. Github just recently added [Github Sponsors](https://github.com/sponsors), which makes it easier to support your favorite developers. Since Github is the biggest social network of developers, I hope this trend will become more prevalent.
+If you have open-source software, then you can start a [Patreon](https://www.patreon.com/) account to get paid. You can make predictable recurring revenue on Patreon by introducing membership tiers. Github just recently added [Github Sponsors](https://github.com/sponsors), which makes it easier to support your favorite developers. Since Github is the biggest social network of developers, I hope this trend will become more prevalent.
 
 If you don’t have an open-source project, then you can start one. Building and maintaining an open-source project is a high leverage job and might be one of the best ways to meet like-minded people, expand your professional network, and find your next gig.
 
