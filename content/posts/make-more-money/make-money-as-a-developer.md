@@ -10,19 +10,24 @@ tags:
   - 'Business'
 description: 'In this blog post, I share the ideas that I think you can start exploring today to increase your income.  All these ideas require substantial time investment in the beginning, but I think you can do them on the side while keeping your current job.'
 ---
+<!-- Primary Meta Tags -->
+<title>Things you can do as a developer to make more money - Tigran's personal blog</title>
+<meta name="title" content="Things you can do as a developer to make more money - Tigran's personal blog">
+<meta name="description" content="In this blog post, I share the ideas that I think you can start exploring today to increase your income.  All these ideas require substantial time investment in the beginning, but I think you can do them on the side while keeping your current job.">
+
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://tik.dev/make-more-money-as-a-developer/">
-<meta property="og:title" content="Things you can do as a developer to make more money - Tigran Hakobyan's personal blog">
+<meta property="og:title" content="Things you can do as a developer to make more money - Tigran's personal blog">
 <meta property="og:description" content="In this blog post, I share the ideas that I think you can start exploring today to increase your income.  All these ideas require substantial time investment in the beginning, but I think you can do them on the side while keeping your current job.">
-<meta property="og:image" content="hannah-wei-aso6SYJZGps-unsplash.jpg">
+<meta property="og:image" content="https://tik.dev/static/d2320c4ad4fa5075af0c04f17b8d57a4/d564d/hannah-wei-aso6SYJZGps-unsplash.jpg">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://tik.dev/make-more-money-as-a-developer/">
-<meta property="twitter:title" content="Things you can do as a developer to make more money - Tigran Hakobyan's personal blog">
-<meta property="twitter:description" content="Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.">
-<meta property="twitter:image" content="hannah-wei-aso6SYJZGps-unsplash.jpg">
+<meta property="twitter:title" content="Things you can do as a developer to make more money - Tigran's personal blog">
+<meta property="twitter:description" content="In this blog post, I share the ideas that I think you can start exploring today to increase your income.  All these ideas require substantial time investment in the beginning, but I think you can do them on the side while keeping your current job.">
+<meta property="twitter:image" content="https://tik.dev/static/d2320c4ad4fa5075af0c04f17b8d57a4/d564d/hannah-wei-aso6SYJZGps-unsplash.jpg">
 
 <figure><img src="hannah-wei-aso6SYJZGps-unsplash.jpg" alt="Working from anywhere"/><figcaption>Photo by <a href="https://unsplash.com/@herlifeinpixels?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_href">Hannah Wei</a> on <a href="https://unsplash.com" target="_blank">Unsplash</a></figcaption></figure>
 
