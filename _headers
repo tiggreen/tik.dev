@@ -9,107 +9,119 @@
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-7e1e5d87c87c3dd4815e.js>; rel=preload; as=script
 /404
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tags
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /categories
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
-  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
-/pages/about/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
-  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
-/pages/projects/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
-  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
-/2018-year-in-review/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /choosing-what-to-work-on-is-hard
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
-/why-to-write
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+/2018-year-in-review/
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/pages/projects/
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /pages/bookshelf/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /lessons-learned
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /before-30/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/why-to-write
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /office-hours
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
-  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
-/how-i-acquired-my-first-10-customers-for-cronhub/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /how-to-price-your-side-project/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/how-i-acquired-my-first-10-customers-for-cronhub/
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/make-more-money-as-a-developer
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /reflections-on-being-a-remote-developer/
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /reflections-on-being-a-side-business
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/building-business
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/tag/business
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/cronhub
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/personal
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/remote-work
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/writing
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/year-review
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/engineering
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/remote
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /tag/հայերեն-մտքեր
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /category/armenian-հայերեն
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /category/cronhub
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /category/personal
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /category/personal-building-business
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/category/personal-business-makers
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /category/personal-writing
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /category/remote
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /category/remote-work
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /category/engineering
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-9be4393efe37e44be10a.js>; rel=preload; as=script
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
+  Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
+/page/1
+  Link: </webpack-runtime-c6c62dde176e93773922.js>; rel=preload; as=script
   Link: </0-70693b88fe90f4c83bde.js>; rel=preload; as=script
