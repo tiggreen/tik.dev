@@ -3,8 +3,15 @@ title: "Bookshelf"
 template: "page"
 ---
 
-I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I particularly liked are marked bold. The list is not in a particular order.
+I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I particularly liked are marked bold. The list is not in a distinct order.
 
+One thing I'm trying this year (2019) is to stop reading self-help and business books. I want to focus on more biographies and fiction.
+
+- [Me Before You (Me Before You Trilogy)](https://www.amazon.com/gp/product/0143124544/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [**Why Nations Fail: The Origins of Power, Prosperity, and Poverty**](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1568468603&sr=1-1)
+- [Creativity, Inc.](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/B00IPJTQQW/ref=sr_1_1?crid=3F5T94UNJE30C&keywords=creativity+inc&qid=1568468535&s=audible&sprefix=creatv%2Caudible%2C135&sr=1-1)
+- [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_1?keywords=quiet&qid=1568468469&s=gateway&sr=8-1)
+- [**Company of one**](https://www.amazon.com/Company-One-Staying-Small-Business/dp/B07KFNRRTS/ref=sr_1_1?crid=1V5TMGKEP5221&keywords=company+of+one&qid=1568468493&s=gateway&sprefix=company+of+%2Caps%2C128&sr=8-1)
 - [**Why We Sleep: Unlocking the Power of Sleep and Dreams**](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/)
 - [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/gp/product/1491935677/ref=ppx_yo_dt_b_asin_title_o09__o00_s00?ie=UTF8&psc=1)
 - [**Poor Charlie’s Almanack The Wit and Wisdom of Charles T. Munger**](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=sr_1_1?ie=UTF8&qid=1529851227&sr=8-1&keywords=poor+charlies+almanack)
@@ -26,6 +33,7 @@ I enjoy reading books and always curious what others are reading. I thought I’
 - [**Outliers The Story of Success**](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/ref=sr_1_1?s=books&ie=UTF8&qid=1529851483&sr=1-1&keywords=outliers+malcolm+gladwell)
 - [Zero to One](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/B005MM7HY8/ref=sr_1_4?s=books&ie=UTF8&qid=1529851503&sr=1-4&keywords=zero+to+one)
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow/dp/B005Z9GAJG/ref=sr_1_1?s=books&ie=UTF8&qid=1529851527&sr=1-1&keywords=thinking+fast+and+slow)
+- [To Sell Is Human: The Surprising Truth About Moving Others](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/ref=sr_1_1?crid=35CD0Y8U6N2I0&keywords=to+sell+is+human+by+daniel+pink&qid=1568468851&s=gateway&sprefix=to+sell+i%2Caps%2C141&sr=8-1)
 - [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/B007EJSMC8/ref=sr_1_1?s=books&ie=UTF8&qid=1529851538&sr=1-1&keywords=the+power+of+habit&dpID=51ejXdSceNL&preST=_SX342_QL70_&dpSrc=srch)
 - [Astrophysics for People in a Hurry](https://www.amazon.com/Astrophysics-People-Hurry/dp/B06XB2PX7G/ref=sr_1_1?ie=UTF8&qid=1529851562&sr=8-1&keywords=astrophysics+for+people+in+a+hurry)
 - [The Little Book That Still Beats the Market](https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159/ref=sr_1_1?ie=UTF8&qid=1529851588&sr=8-1&keywords=the+little+book+that+still+beats+the+market)

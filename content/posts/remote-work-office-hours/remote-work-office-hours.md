@@ -10,6 +10,8 @@ tags:
 description: 'Today I’m excited to announce my new initiative - Remote Work “Office Hours.” I will be dedicating 2-3 hours every week (20 min time slots) to answer your questions about working remotely as a developer. It’s completely free and aims to help everyone who wants to learn more about remote work.'
 ---
 
+**UPDATE September, 2019: All slots are taken until the end of October. Sorry.**
+
 **UPDATE August 29, 2019: I decided to open more time slots in my evening hours. Feel free to grab a time! :)**
 
 
