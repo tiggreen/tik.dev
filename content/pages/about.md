@@ -3,11 +3,11 @@ title: "About me"
 template: "page"
 ---
 
-Hi! I'm Tigran. I'm a software engineer at Buffer. I've recently changed my professional focus from product engineering to site reliability engineering (SRE). I'm very passionate about developer productivity and love building tools for developers. Sometimes it's a software, and in some cases, it's educational content. My wife thinks that I should have become a writer, but I think programming and writing have so much in common that I don't have to regret my choice. In my free time, I enjoy writing, reading, and playing soccer.
+Hi! I'm Tigran. I'm a software engineer at Buffer. I'm very passionate about building tools that enable people to learn and create in new ways. In my free time, I try to read, write and play soccer.
 
 Here are some other things about me that you might want to know:
 
-- I’m originally from Armenia and have an MSc in Computer Science from [RIT](https://rit.edu).I've specialized in Distributed Systems and Databases.
+- I’m originally from Armenia and have an MSc in Computer Science from [RIT](https://rit.edu). I've specialized in Distributed Systems and Databases.
 - I’m the creator of [Cronhub](https://cronhub.io). Cronhub is a cron monitoring tool for developers. It’s my side-business and I share my learnings on [this blog](https://blog.cronhub.io).
 - In 2016 I built [Booknshelf](https://booknshelf.com) to help people to keep track of their books online. Since I love reading books, I thought this would be a fun project to work on.
 - I was a graduate teaching assistant at RIT teaching Computer Science I, II to undergrads. The curriculum included the basics of computer science, data structures, and algorithms.
