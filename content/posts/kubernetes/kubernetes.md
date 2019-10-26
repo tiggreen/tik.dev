@@ -54,5 +54,4 @@ Thanks for reading!
 
 *Once a month or so, I send out an email with my latest writing, thoughts, or anything interesting that I've read. If you want to stay in touch then [you can subscribe](https://tinyletter.com/tigranh) and receive my writing in your inbox.*
 
-*If you want to support my work, the best thing you can do is to share it with your friends. Thank you!*
 
