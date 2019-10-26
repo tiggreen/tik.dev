@@ -34,6 +34,7 @@ description: 'I believe Kubernetes is a lot more than software to manage contain
 <meta property="twitter:description" content="I believe Kubernetes is a lot more than software to manage containerized applications. In this blog post, I tried to share my thinking.">
 <meta property="twitter:image" content="k8s.png">
 
+![Kubernetes Logo](k8s.png)
 
 I've been working with Kubernetes (k8s) for a couple of years now, and very recently, I started to reason about its deep purpose and potential for the future of software. I think the way we're building software now is going to change in the future fundamentally. With the rise of cloud technology, all the tools we use now might move to the cloud. This transition makes me think if the next significant innovation in programming languages connects to cloud innovation.
 
@@ -51,5 +52,7 @@ At this point, most of the no-code tools are designed to reduce the obstacles fo
 
 Thanks for reading!
 
-Once a month or so, I send out an email with my latest writing, thoughts, or anything interesting that I've read. [Sign up for my newsletter](https://tinyletter.com/tigranh).
+*Once a month or so, I send out an email with my latest writing, thoughts, or anything interesting that I've read. If you want to stay in touch then [you can subscribe](https://tinyletter.com/tigranh) and receive my writing in your inbox.*
+
+*If you want to support my work, the best thing you can do is to share it with your friends. Thank you!*
 
