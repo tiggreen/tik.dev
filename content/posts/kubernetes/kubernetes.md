@@ -36,7 +36,7 @@ description: 'I believe Kubernetes is a lot more than software to manage contain
 
 ![Kubernetes Logo](k8s.png)
 
-I've been working with Kubernetes (k8s) for a couple of years now, and very recently, I started to reason about its deep purpose and potential for the future of software. I think the way we're building software now is going to change in the future fundamentally. With the rise of cloud technology, all the tools we use now might move to the cloud. This transition makes me think if the next significant innovation in programming languages connects to cloud innovation.
+I've been working with [Kubernetes](https://kubernetes.io) (k8s) for a couple of years now, and very recently, I started to reason about its deep purpose and potential for the future of software. I think the way we're building software now is going to change in the future fundamentally. With the rise of cloud technology, all the tools we use now might move to the cloud. This transition makes me think if the next significant innovation in programming languages connects to cloud innovation.
 
 Can we build a new programming language that runs on the cloud? Why do we have to duplicate the same codebase in our local machine and the cloud? Do we need the tools like git to keep them in sync? Can we remove the friction between the code that engineers write and the production release? I have more questions buried in my head that make me thrilled to see what the future has to surprise us.
 
