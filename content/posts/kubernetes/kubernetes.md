@@ -15,7 +15,25 @@ description: 'I believe Kubernetes is a lot more than software to manage contain
 <meta name="title" content="Why I am excited about Kubernetes">
 <meta name="description" content="I believe Kubernetes is a lot more than software to manage containerized applications. In this blog post, I tried to share my thinking.">
 
-![Kubernetes Logo](k8s.png)
+<!-- Primary Meta Tags -->
+<title>Why I am excited about Kubernetes - Tigran Hakobyan's personal blog</title>
+<meta name="title" content="Why I am excited about Kubernetes - Tigran Hakobyan's personal blog">
+<meta name="description" content="I believe Kubernetes is a lot more than software to manage containerized applications. In this blog post, I tried to share my thinking.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tik.dev/k8s-is-great/">
+<meta property="og:title" content="Why I am excited about Kubernetes - Tigran Hakobyan's personal blog">
+<meta property="og:description" content="I believe Kubernetes is a lot more than software to manage containerized applications. In this blog post, I tried to share my thinking.">
+<meta property="og:image" content="k8s.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://tik.dev/k8s-is-great/">
+<meta property="twitter:title" content="Why I am excited about Kubernetes - Tigran Hakobyan's personal blog">
+<meta property="twitter:description" content="I believe Kubernetes is a lot more than software to manage containerized applications. In this blog post, I tried to share my thinking.">
+<meta property="twitter:image" content="k8s.png">
+
 
 I've been working with Kubernetes (k8s) for a couple of years now, and very recently, I started to reason about its deep purpose and potential for the future of software. I think the way we're building software now is going to change in the future fundamentally. With the rise of cloud technology, all the tools we use now might move to the cloud. This transition makes me think if the next significant innovation in programming languages connects to cloud innovation.
 
