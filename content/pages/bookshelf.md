@@ -7,6 +7,10 @@ I enjoy reading books and always curious what others are reading. I thought I’
 
 One thing I'm trying this year (2019) is to stop reading self-help and business books. I want to focus on more biographies and fiction.
 
+- [**Surely You're Joking, Mr. Feynman!**](https://www.audible.com/pd/Surely-Youre-Joking-Mr-Feynman-Audiobook/B002V5D7IE)
+- [The One World Schoolhouse](https://www.audible.com/pd/The-One-World-Schoolhouse-Audiobook/B009HVNGQI)
+- [Fahrenheit 451](https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673310/)
+- [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484/)
 - [Me Before You (Me Before You Trilogy)](https://www.amazon.com/gp/product/0143124544/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [**Why Nations Fail: The Origins of Power, Prosperity, and Poverty**](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1568468603&sr=1-1)
 - [Creativity, Inc.](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/B00IPJTQQW/ref=sr_1_1?crid=3F5T94UNJE30C&keywords=creativity+inc&qid=1568468535&s=audible&sprefix=creatv%2Caudible%2C135&sr=1-1)
