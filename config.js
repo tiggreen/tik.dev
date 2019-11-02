@@ -26,6 +26,10 @@ module.exports = {
       label: 'Projects',
       path: '/pages/projects',
     },
+    {
+      label: 'People',
+      path: '/pages/people',
+    },
   ],
   author: {
     name: 'Tigran Hakobyan',
