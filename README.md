@@ -1,4 +1,4 @@
-# [tigranhakobyan.com](https://tigranhakobyan.com/)
+# [tik.dev](https://tik.dev/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1e36f455-922a-48fa-9355-1fffad426cf9/deploy-status)](https://app.netlify.com/sites/tigran/deploys)
 
