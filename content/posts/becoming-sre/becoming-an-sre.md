@@ -8,7 +8,7 @@ category: 'Technical, Personal'
 tags:
   - 'Technical'
   - 'Personal'
-description: 'In 2018, I decided to start a side-business. I got into writing, found my true professional passion, generated around $4000 net revenue, and met great people who inspired and helped me.'
+description: 'I’ve recently switched careers, from being a product engineer to a site reliability engineer (SRE). I’ve become Buffer’s first SRE this year and learned a lot from my experience. I want to share everything I’ve learned along the way, as well as the challenges I faced.'
 ---
 
 <figure><img src="tigran-in-zion.jpg" alt="Tigran in Zion National Park"/><figcaption>I was in Zion National Park this year, and it was awe-inspiring. </figcaption></figure>
