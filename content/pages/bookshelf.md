@@ -3,10 +3,9 @@ title: "Bookshelf"
 template: "page"
 ---
 
-I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I particularly liked are marked bold. The list is not in a distinct order.
+I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
-One thing I'm trying this year (2019) is to stop reading self-help and business books. I want to focus on more biographies and fiction.
-
+- [How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness](https://www.amazon.com/Adam-Smith-Change-Your-Life/dp/1591847958)
 - [**Surely You're Joking, Mr. Feynman!**](https://www.audible.com/pd/Surely-Youre-Joking-Mr-Feynman-Audiobook/B002V5D7IE)
 - [The One World Schoolhouse](https://www.audible.com/pd/The-One-World-Schoolhouse-Audiobook/B009HVNGQI)
 - [Fahrenheit 451](https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673310/)
