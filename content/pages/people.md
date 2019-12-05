@@ -2,9 +2,7 @@
 title: "People"
 template: "page"
 ---
-The Internet is an incredible medium to connect with people. It's a place to read the thoughts of the people you admire. Here is a list of some internet people who I'd love to meet in person at some point in my life. Life is full of surprises, who knows!
-
-I try to keep this list updated.
+The Internet is an incredible medium to connect with people. It's a place to read the thoughts of the people you admire. Here is a list of some interesting people I follow on Twitter.
 
 - [Marc Andreessen](https://a16z.com/author/marc-andreessen/)
 - [Patrick Collison](https://patrickcollison.com)
