@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql, StaticQuery, Link } from 'gatsby';
+import { graphql, StaticQuery } from 'gatsby';
 import Author from './Author';
 import Contacts from './Contacts';
 import Copyright from './Copyright';
@@ -19,10 +19,22 @@ export const PureSidebar = ({ data, isIndex }) => {
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
         <p>
-          Subscribe to my <a href="https://tinyletter.com/tigranh" target="_blank">newsletter</a>
+          Subscribe to my{' '}
+          <a href="https://tinyletter.com/tigranh" target="_blank">
+            newsletter
+          </a>
         </p>
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
+        <br></br>
+        <div>
+          <script
+            async
+            type="text/javascript"
+            src="//cdn.carbonads.com/carbon.js?serve=CE7DK53M&placement=tikdev"
+            id="_carbonads_js"
+          ></script>
+        </div>
       </div>
     </div>
   );
