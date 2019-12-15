@@ -2,7 +2,7 @@
 title: "People"
 template: "page"
 ---
-The Internet is an incredible medium to connect with people. It's a place to read the thoughts of the people you admire. Here is a list of some interesting people I follow on Twitter.
+The Internet is an incredible medium to connect with people. It's a place to read the thoughts of the people you admire and can learn from. Here is a list of some interesting people I follow on Twitter.
 
 - [Marc Andreessen](https://a16z.com/author/marc-andreessen/)
 - [Patrick Collison](https://patrickcollison.com)
@@ -30,3 +30,6 @@ The Internet is an incredible medium to connect with people. It's a place to rea
 - [Lucy Guo](https://twitter.com/lucy_guo)
 - [Cindy Sridharan](https://twitter.com/copyconstruct)
 - [Laura Deming](https://twitter.com/LauraDeming)
+- [Dan Luu](https://twitter.com/danluu)
+- [Jackie Luo](https://twitter.com/jackiehluo)
+- [Mary Rose Cook](https://maryrosecook.com/)
