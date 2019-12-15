@@ -9,143 +9,143 @@
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-7e1e5d87c87c3dd4815e.js>; rel=preload; as=script
 /404
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tags
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /categories
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
-  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
-/pages/about/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
-  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
-/pages/projects/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
-  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
-/pages/people/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /2018-year-in-review/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /choosing-what-to-work-on-is-hard
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
+  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
+  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
+/pages/people/
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
+  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
+/pages/projects/
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /k8s-is-great
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
-  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
-/office-hours
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /why-to-write
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
-  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
-/pages/bookshelf/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /before-30/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
-/make-more-money-as-a-developer
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+/pages/bookshelf/
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /lessons-learned
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
+  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
+/make-more-money-as-a-developer
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
+  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
+/office-hours
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /how-to-price-your-side-project/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /how-i-acquired-my-first-10-customers-for-cronhub/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
-  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
-/becoming-an-sre
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /reflections-on-being-a-side-business
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
+  Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
+/becoming-an-sre
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /reflections-on-being-a-remote-developer/
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/building-business
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/business
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/cloud
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/cronhub
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/kubernetes
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/personal
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/remote-work
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/technical
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/writing
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/year-review
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/engineering
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/remote
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /tag/հայերեն-մտքեր
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/armenian-հայերեն
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/cronhub
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/personal
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/personal-building-business
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/personal-business-makers
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/personal-writing
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/remote
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/remote-work
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/technical-personal
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/technology-cloud
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /category/engineering
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
 /page/1
-  Link: </webpack-runtime-e74c78e13813da3873e9.js>; rel=preload; as=script
+  Link: </webpack-runtime-8c22fc580c9cb4d0907e.js>; rel=preload; as=script
   Link: </0-54d4fc13d665ace3b115.js>; rel=preload; as=script
