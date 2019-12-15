@@ -26,15 +26,6 @@ export const PureSidebar = ({ data, isIndex }) => {
         </p>
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
-        <br></br>
-        <div>
-          <script
-            async
-            type="text/javascript"
-            src="//cdn.carbonads.com/carbon.js?serve=CE7DK53M&placement=tikdev"
-            id="_carbonads_js"
-          ></script>
-        </div>
       </div>
     </div>
   );
