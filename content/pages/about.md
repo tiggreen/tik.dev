@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-Hi! I'm Tigran. I'm a site reliability engineer at Buffer. I'm interested in developer tools and making infrastructure more accessible for developers. I also like creating content on the internet that is useful for people. In my free time, I try to read, write, and play soccer.
+Hi! I'm Tigran. I'm a software engineer at Buffer. I like building tools for developers that make them more productive. I'm currently trying to find the intersection between writing and programming that fits well with my interests. In my free time, I try to read, write, and play soccer.
 
 Here are some other things about me that you might want to know:
 
