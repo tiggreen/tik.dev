@@ -33,3 +33,5 @@ The Internet is an incredible medium to connect with people. It's a place to rea
 - [Dan Luu](https://twitter.com/danluu)
 - [Jackie Luo](https://twitter.com/jackiehluo)
 - [Mary Rose Cook](https://maryrosecook.com/)
+- [Kristina Chodorow](https://kchodorow.com/)
+- [Gary Bernhardt](https://www.destroyallsoftware.com/screencasts)

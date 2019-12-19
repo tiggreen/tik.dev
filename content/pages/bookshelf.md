@@ -5,6 +5,7 @@ template: "page"
 
 I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
+- [Designing Your Life: How to Build a Well-Lived, Joyful Life](https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321)
 - [This Could Be Our Future: A Manifesto for a More Generous World ](https://www.amazon.com/This-Could-Our-Future-Manifesto/dp/0525560823)
 - [How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness](https://www.amazon.com/Adam-Smith-Change-Your-Life/dp/1591847958)
 - [**Surely You're Joking, Mr. Feynman!**](https://www.audible.com/pd/Surely-Youre-Joking-Mr-Feynman-Audiobook/B002V5D7IE)
