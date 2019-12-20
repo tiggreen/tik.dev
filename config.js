@@ -16,19 +16,19 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about',
+      path: '/about',
     },
     {
       label: 'Bookshelf',
-      path: '/pages/bookshelf',
+      path: '/bookshelf',
     },
     {
       label: 'Projects',
-      path: '/pages/projects',
+      path: '/projects',
     },
     {
       label: 'People',
-      path: '/pages/people',
+      path: '/people',
     },
   ],
   author: {
