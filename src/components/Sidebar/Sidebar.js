@@ -18,12 +18,15 @@ export const PureSidebar = ({ data, isIndex }) => {
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        <p>
-          Subscribe to my{' '}
-          <a href="https://tinyletter.com/tigranh" target="_blank">
-            newsletter
-          </a>
-        </p>
+        <div>
+          <iframe
+            width="304"
+            height="250"
+            src="https://tigran.substack.com/embed"
+            frameborder="0"
+            scrolling="no"
+          ></iframe>
+        </div>
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
       </div>
