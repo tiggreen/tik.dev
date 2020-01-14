@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://tik.dev',
-  title: "Tigran Hakobyan's personal blog",
+  title: "Tigran's personal blog",
   subtitle:
     'Long-form thoughts on building software, programming and developer tools.',
   copyright: '© All rights reserved.',
