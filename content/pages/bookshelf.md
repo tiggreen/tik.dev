@@ -63,7 +63,7 @@ I enjoy reading books and always curious what others are reading. I thought I’
 * [Business Adventures](https://www.amazon.com/Business-Adventures-Twelve-Classic-Street/dp/1497644895/ref=sr_1_1?s=books&ie=UTF8&qid=1529851896&sr=1-1&keywords=business+adventures)
 * [Influence: The Psychology of Persuasion,](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/ref=sr_1_1?s=books&ie=UTF8&qid=1529851906&sr=1-1&keywords=influence)
 * [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/ref=sr_1_3?s=books&ie=UTF8&qid=1529851916&sr=1-3&keywords=ready+player+one)
-* ****[**The Intelligent Investor**](https://www.amazon.com/Intelligent-Investor-Classic-Value-Investing/dp/0060752610/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1529851938&sr=1-3)****
+* [**The Intelligent Investor**](https://www.amazon.com/Intelligent-Investor-Classic-Value-Investing/dp/0060752610/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1529851938&sr=1-3)
 * [**The Sun Also Rises**](https://www.amazon.com/Sun-Also-Rises-Ernest-Hemingway/dp/0743297334/ref=sr_1_1_sspa?s=books&ie=UTF8&qid=1529851967&sr=1-1-spons&keywords=the+sun+also+rises&psc=1)
 * [For Whom the Bell Tolls](https://www.amazon.com/Whom-Bell-Tolls-Ernest-Hemingway/dp/0684803356/ref=sr_1_1?s=books&ie=UTF8&qid=1529851979&sr=1-1&keywords=For+Whom+the+Bell+Tolls)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?s=books&ie=UTF8&qid=1529851993&sr=1-1&keywords=clean+code)
