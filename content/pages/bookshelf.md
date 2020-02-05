@@ -7,6 +7,7 @@ draft: false
 I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
 ## 2020
+* [Production-Ready Microservices](https://www.amazon.com/Production-Ready-Microservices-Standardized-Engineering-Organization-ebook/dp/B01N48GFCQ) - A good book that goes over the typical problems that  engineering teams start to face when they switch from monolith to microservice architecture.
 * [**UNIX: A History and a Memoir**](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552/) - One of the best books I've read on the history of Bell Labs and Unix. The storytelling is so compelling and Brian Kernighan is an incredible writer.
 * [**Autobiography of Benjamin Franklin**](https://www.amazon.com/Autobiography-Benjamin-Franklin/dp/1989201636) - The story of one of the Founding Fathers of the independent America. A self-made man and an incredible thinker.
 - [Invested](https://www.amazon.com/Invested-Warren-Buffett-Charlie-Emotions/dp/0062672649) - Good book but mostly for people who are very new to investing in stocks.
