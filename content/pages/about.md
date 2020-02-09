@@ -5,7 +5,7 @@ slug: about
 draft: false
 ---
 
-Hi! I'm Tigran. I'm a software engineer at Buffer. I like building tools for developers that make them more productive. In my free time, I try to read, write, and play soccer.
+I'm interested in developer tools, creator tools, and the future of work. I often think about how we work now will change in the future, and the rise of the passion economy. In my free time, I try to write, watch movies and play soccer.
 
 Here are some other things about me that you might want to know:
 
