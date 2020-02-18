@@ -24,6 +24,12 @@ export const PureSidebar = ({ data, isIndex }) => {
             newsletter
           </a>
         </p>
+        <p>
+          <strong>I'm working on a new</strong>{' '}
+          <a href="https://remotebook.dev" target="_blank">
+            short-book
+          </a>
+        </p>
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
       </div>
