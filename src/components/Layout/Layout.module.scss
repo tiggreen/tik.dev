@@ -2,5 +2,10 @@
 @import '../../assets/scss/mixins';
 
 .layout {
-    lost-center: $layout-width;
+  lost-center: $layout-width;
+}
+
+.singup-form {
+  padding: 1px;
+  text-align: left;
 }

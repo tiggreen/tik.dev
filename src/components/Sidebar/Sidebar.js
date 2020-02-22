@@ -5,6 +5,7 @@ import Contacts from './Contacts';
 import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
+import Signup from '../Newsletter/Signup';
 
 export const PureSidebar = ({ data, isIndex }) => {
   const {
@@ -18,12 +19,7 @@ export const PureSidebar = ({ data, isIndex }) => {
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
         <Menu menu={menu} />
-        <p>
-          Subscribe to my{' '}
-          <a href="https://tinyletter.com/tigranh" target="_blank">
-            newsletter
-          </a>
-        </p>
+        <Signup />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
       </div>
