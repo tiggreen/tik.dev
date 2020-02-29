@@ -5,7 +5,7 @@ slug: about
 draft: false
 ---
 
-I'm interested in developer tools, side-projects and how we build software now will change in the future. In my free time, I try to write, watch movies and play soccer.
+I'm interested in developer tools and site-reliability engineering. In my free time, I try to write, watch movies and play soccer.
 
 Here are some other things about me that you might want to know:
 
