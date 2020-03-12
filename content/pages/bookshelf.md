@@ -7,6 +7,7 @@ draft: false
 I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
 ## 2020
+* [**Arguing with Zombies: Economics, Politics, and the Fight for a Better Future**](https://www.amazon.com/Arguing-Zombies-Economics-Politics-Better-ebook/dp/B07TL1WCCM) - A great book that contains  Paul Krugman's best essays on society, economics, social security and health care. I highly recommend if you're interested in these topics.
 * [**That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea**](https://www.amazon.com/That-Will-Never-Work-Netflix/dp/B07X7JH5ZH)
 * [Uncanny Valley: A Memoir](https://www.amazon.com/Uncanny-Valley-Memoir-Anna-Wiener-ebook/dp/B07QYHLP97)
 * [Production-Ready Microservices](https://www.amazon.com/Production-Ready-Microservices-Standardized-Engineering-Organization-ebook/dp/B01N48GFCQ) - A good book that goes over the typical problems that  engineering teams start to face when they switch from monolith to microservice architecture.
