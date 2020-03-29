@@ -5,7 +5,9 @@ slug: about
 draft: false
 ---
 
-I'm interested in developer tools and site-reliability engineering. In my free time, I try to write, watch movies and play soccer.
+Hi! My name is Tigran and I'm an SRE at [Buffer](https://buffer.com).
+
+I'm interested in distributed systems and developer tools. In my free time, I try to work on my side-projects, write and play soccer.
 
 Here are some other things about me that you might want to know:
 
