@@ -7,6 +7,8 @@ draft: false
 I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
 ## 2020
+* [**The Chip : How Two Americans Invented the Microchip and Launched a Revolution**](https://www.goodreads.com/book/show/8130575) - A fantastic book about the invention of Microchip. I knew only a little about the hardware that powers the current software, and after reading this book, I can say I know some things about integrated circuits, transistors and more. Robert Noyce and Jack Kilby are two pioneers who created the foundation for personal computing.
+* [Seeking SRE](https://www.amazon.com/_/dp/1491978864?tag=oreilly20-20) A good book that contains a lot of interesting essays on how to run production systems effectively.
 * [**Arguing with Zombies: Economics, Politics, and the Fight for a Better Future**](https://www.amazon.com/Arguing-Zombies-Economics-Politics-Better-ebook/dp/B07TL1WCCM) - A great book that contains  Paul Krugman's best essays on society, economics, social security and health care. I highly recommend if you're interested in these topics.
 * [**That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea**](https://www.amazon.com/That-Will-Never-Work-Netflix/dp/B07X7JH5ZH)
 * [Uncanny Valley: A Memoir](https://www.amazon.com/Uncanny-Valley-Memoir-Anna-Wiener-ebook/dp/B07QYHLP97)

@@ -5,9 +5,9 @@ slug: about
 draft: false
 ---
 
-Hi! My name is Tigran and I'm an SRE at [Buffer](https://buffer.com).
+Hi! My name is Tigran, and I'm a site reliability engineer at [Buffer](https://buffer.com). I spend most of my time debugging cloud systems and thinking about ways I can help engineers to be more productive.
 
-I'm interested in distributed systems and developer tools. In my free time, I try to work on my side-projects, write and play soccer.
+I'm very interested in the future of work and how we build software now will change in the future. Most of my exciting ideas (they seem exciting to me, okay, also to my wife) are formed around it. In my free time, I try to work on my side-projects, write, and play soccer.
 
 Here are some other things about me that you might want to know:
 
