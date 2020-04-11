@@ -5,9 +5,9 @@ slug: about
 draft: false
 ---
 
-Hi! My name is Tigran, and I'm a site reliability engineer at [Buffer](https://buffer.com). I spend most of my time debugging cloud systems and thinking about ways I can help engineers to be more productive.
+Hi! My name is Tigran, and I'm an infrastructure engnieer at [Buffer](https://buffer.com). I spend most of my time debugging systems, building tools and thinking about ways I can make engineers more productive.
 
-I'm very interested in the future of work and how we build software now will change in the future. Most of my exciting ideas (they seem exciting to me, okay, also to my wife) are formed around it. In my free time, I try to work on my side-projects, write, and play soccer.
+I'm very interested in the future of work, and how we build software now will change in the future. Even if we put the software aside, the future of work is fascinating. In my free time, I try to write, exercise, and watch movies.
 
 Here are some other things about me that you might want to know:
 
