@@ -5,9 +5,9 @@ slug: about
 draft: false
 ---
 
-Hi! My name is Tigran, and I'm an infrastructure engnieer at [Buffer](https://buffer.com). I spend most of my time debugging systems, building tools and thinking about ways I can make engineers more productive.
+Hi! My name is Tigran, and I'm a software engnieer at [Buffer](https://buffer.com). I like building tools for developers.
 
-I'm very interested in the future of work, and how we build software now will change in the future. Even if we put the software aside, the future of work is fascinating. In my free time, I try to write, exercise, and watch movies.
+I'm very interested in the future of work, and how we build software now will change in the future. Even if we put the software aside, the future of work is fascinating. In my free time, I like to write and play soccer.
 
 Here are some other things about me that you might want to know:
 
