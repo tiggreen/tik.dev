@@ -5,9 +5,8 @@ slug: about
 draft: false
 ---
 
-Hi! My name is Tigran, and I'm a software engnieer at [Buffer](https://buffer.com). I like building tools for developers.
+Hi! My name is Tigran, and I'm a senior software engineer at [Buffer](https://buffer.com). I'm interested in programming, writing, and education. I often think that I should have become a writer, but I think programming and writing have so much in common that I don't have to regret my choice. Both are tools for making things that are useful to other people.`
 
-I'm very interested in the future of work, and how we build software now will change in the future. Even if we put the software aside, the future of work is fascinating. In my free time, I like to write and play soccer.
 
 Here are some other things about me that you might want to know:
 
