@@ -5,13 +5,13 @@ slug: about
 draft: false
 ---
 
-Hi! My name is Tigran, and I'm a senior software engineer at [Buffer](https://buffer.com). I'm interested in programming, writing, and education. I often think that I should have become a writer, but I think programming and writing have so much in common that I don't have to regret my choice. Both are tools for making things that are useful to other people.`
+Hi! My name is Tigran, and I'm a senior software engineer at [Buffer](https://buffer.com). I'm interested in programming, writing, and education. I often think that I should have become a writer, but I think programming and writing have so much in common that I don't have to regret my choice. These days I make things for developers and write about my learnings.
 
 
 Here are some other things about me that you might want to know:
 
 - I’m originally from Armenia and have an MSc in Computer Science from [RIT](https://rit.edu). I've specialized in Distributed Systems and Databases.
-- I’m the creator of [Cronhub](https://cronhub.io). Cronhub is a cron monitoring tool for developers. It’s my side-business and I share my learnings on [this blog](https://blog.cronhub.io).
+- I’m the creator of [Cronhub](https://cronhub.io). Cronhub is a cron scheduler and monitoring tool for developers. It’s my side-business and I share my learnings on [this blog](https://blog.cronhub.io).
 - In 2016 I built [Booknshelf](https://booknshelf.com) to help people to keep track of their books online. Since I love reading books, I thought this would be a fun project to work on.
 - I was a graduate teaching assistant at RIT teaching Computer Science I, II to undergrads. The curriculum included the basics of computer science, data structures, and algorithms (average rating of 9.4 out of 10 from all 200 students).
 - When I was at RIT I built an online carpooling platform for students called [Wheelie](https://medium.com/@tik/introducing-wheelie-9c851a36d93f). It was my first side-project. It became the official carpooling platform for RIT students. However, I shut it down in 2016 for personal reasons.
