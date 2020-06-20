@@ -1,7 +1,7 @@
 ---
 template: post
 title: My alumni speech for RIT's CS graduation event
-slug: rit-cs-alumnus-speech
+slug: rit-cs-alumni-speech
 draft: false
 date: 2020-06-20T12:41:44.934Z
 description: >-
