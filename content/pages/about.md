@@ -5,7 +5,7 @@ slug: about
 draft: false
 ---
 
-Hi! My name is Tigran, and I'm a senior software engineer at [Buffer](https://buffer.com). I'm interested in programming, writing, and education. I often think that I should have become a writer, but I think programming and writing have so much in common that I don't have to regret my choice. These days I make things for developers and write about my learnings.
+Hi! My name is Tigran, and I'm a senior software engineer at [Buffer](https://buffer.com). I'm interested in programming, writing, and education. I often think that I should have become a writer, but programming and writing have so much in common that I don't regret my choice. Currently, I'm focused on finding ways of making programming more accessible to a broader audience.
 
 
 Here are some other things about me that you might want to know:
