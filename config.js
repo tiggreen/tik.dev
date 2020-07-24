@@ -30,6 +30,10 @@ module.exports = {
       label: 'People',
       path: '/people',
     },
+    {
+      label: 'Հայերեն մտքեր',
+      path: '/essays-in-armenian',
+    },
   ],
   author: {
     name: 'Tigran Hakobyan',
