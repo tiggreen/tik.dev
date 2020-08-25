@@ -5,7 +5,7 @@ slug: about
 draft: false
 ---
 
-Hi! My name is Tigran, and I'm a senior Site Reliability Engineer at [Buffer](https://buffer.com). I'm interested in programming, writing, and education. I often think that I should have become a writer, but programming and writing have so much in common that I don't regret my choice. Both are tools for creation. Currently, my professional focus is on software reliability and infrastructure tooling.
+Hi! My name is Tigran, and I'm a senior software engineer at [Buffer](https://buffer.com). I'm interested in programming, writing, and education. I often think that I should have become a writer, but programming and writing have so much in common that I don't regret my choice. Both are tools for creation. Currently, my professional focus is on software reliability and infrastructure tooling.
 
 In my free time, I like to play soccer, watch movies, and spend time with friends and family.
 

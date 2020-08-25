@@ -7,6 +7,7 @@ draft: false
 I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
 ## 2020
+* [Benjamin Franklin: An American Life](https://www.amazon.com/Benjamin-Franklin-An-American-Life/dp/B004VLETYM/) - After reading his autobiography I wanted to learn more about Franklin. He is the founding father, ambitious entrepreneur and scientist who always wants to learn.
 * [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y) - An interesting books on how to be smart when taking notes inspired by  "Zettlekasten's methodology developed by Niklas Luhmannand.
 * [**Mindset: The New Psychology of Success**](https://www.amazon.com/dp/B000FCKPHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - I found this book very insightful. The idea of a fixed and growth mindset can be life-changing.
 * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook-dp-B00B8USS14/dp/B00B8USS14/ref=mt_kindle?_encoding=UTF8&me=&qid=1590876430) - The Joys of the Craft is the section you should read if you're a maker. It's incredible.
