@@ -7,6 +7,8 @@ draft: false
 I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
 ## 2020
+* [**Lifespan: Why We Age - and Why We Don't Have To**](https://www.amazon.com/Lifespan-audiobook/dp/B07QGH1Q43) - I've developed a deep interest in longevity and this book was great to learn more about modern research and things we can do to expand the span of human life. I highly recommend.
+* [Controversial Essays](https://www.amazon.com/Controversial-Essays-Hoover-Institution-Publication-ebook/dp/B001E52S96) - I wanted to read more of Thomas Sowell's writings and his book of essays was a great pick to learn different perspective on some of the political, economic and social issues.
 * [Benjamin Franklin: An American Life](https://www.amazon.com/Benjamin-Franklin-An-American-Life/dp/B004VLETYM/) - After reading his autobiography I wanted to learn more about Franklin. He is the founding father, ambitious entrepreneur and scientist who always wants to learn.
 * [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y) - An interesting books on how to be smart when taking notes inspired by  "Zettlekasten's methodology developed by Niklas Luhmannand.
 * [**Mindset: The New Psychology of Success**](https://www.amazon.com/dp/B000FCKPHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - I found this book very insightful. The idea of a fixed and growth mindset can be life-changing.
