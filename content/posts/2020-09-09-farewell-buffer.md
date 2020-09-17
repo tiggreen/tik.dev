@@ -3,7 +3,7 @@ template: post
 title: Farewell Buffer
 slug: farewell-buffer
 draft: false
-date: 2020-09-09T13:52:35.483Z
+date: 2020-09-17T13:52:35.483Z
 description: >-
   After four and a half years working at Buffer, I will be moving on to a new
   opportunity. Next month, I'm joining Netflix to work on developer productivity
