@@ -12,7 +12,10 @@ category: personal
 tags:
   - personal
   - buffer
+  - netflix
 ---
+![tigran hakobyan at Kauai, Hawaii](/media/img_1673.jpg "A memorable trip to Kauai in 2019 with other Bufferoos! ")
+
 **After four and a half years working at Buffer, I will be moving on to a new opportunity. Next month, I'm joining Netflix to work on developer productivity and tooling. **
 
 - - -
