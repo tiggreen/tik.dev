@@ -16,9 +16,7 @@ tags:
 ---
 ![tigran hakobyan at Kauai, Hawaii](/media/img_1673.jpg "A memorable trip to Kauai in 2019 with other Bufferoos! ")
 
-**After four and a half years working at Buffer, I will be moving on to a new opportunity. Next month, I'm joining Netflix to work on developer productivity and tooling.**
-
-- - -
+After four and a half years working at Buffer, I will be moving on to a new opportunity. Next month, I'm joining Netflix to work on developer productivity and tooling.
 
 It is difficult to describe my feelings right now because Buffer has become a huge part of my life. I couldn't have found a better place to grow as an engineer and as a person. I'm incredibly grateful to Buffer, which took a chance on me in my early career. I've had the best and most supportive team I could have imagined. I found co-workers who turned into my friends—hopefully for life. 
 
