@@ -20,7 +20,7 @@ It is difficult to describe my feelings right now because Buffer has become a hu
 
 I joined Buffer in February of 2016 as a back-end engineer, but I transitioned into a full-stack engineering role building Buffer Analyze over time. However, earlier last year, I realized that my passion and interests lie in developer and infrastructure tooling. So, I reached out to my manager and engineering leadership to find a fit for me to work on what I enjoy and what the company needs. At that point, we were close to finishing up our transition from a monolithic application to microservices in Kubernetes, which meant new exciting challenges coming to life in our distributed systems. 
 
-Later, I joined the infrastructure team to work on the reliability of our services. I focused on all things site-reliability, observability, and monitoring. I wrote a long (but quite popular) post about this transition if you're interested in reading more.
+Later, I joined the infrastructure team to work on the reliability of our services. I focused on all things site-reliability, observability, and monitoring. I wrote a long (but quite popular) [post](https://tik.dev/becoming-an-sre) about this transition if you're interested in reading more.
 
 In my new role as an infrastructure engineer, I was able to work with product engineers and support them with reliability, monitoring, and production readiness. I liked my role because I had full autonomy to decide what to work on and was able to work at my own pace. The domain of problems is broad, and the impact on developer happiness is huge. What I love about developer tools is that even a simple 5% improvement can have an enormous impact when you multiply it by the number of developers in your organization.
 
@@ -32,7 +32,8 @@ I also felt that I needed to change the domain of the product that I’m working
 
 I put together some requirements to help guide me in my search. 
 
-* I want to work in a larger company to learn how big tech companies function. The operational and technical challenges in big companies are very different, and I want to experience it. The only time I worked in a bigger company was a summer internship at Twitter, which was very short for me to grasp fully. 
+* I want to work in a larger company to learn how big tech companies function. The operational and technical challenges in big companies are very different, and I want to experience it. The only time I worked in a bigger company was a summer internship at Twitter, which was very short for me to grasp fully.
+
 * Most big companies have scaling challenges, and when systems scale, they act differently. This means that if I work at a bigger company, I can expose myself to new technical problems that excite me.
 * I want to work on a product that I use and love. It's a significant factor for me because it helps me with motivation, especially knowing that I'm an internally motivated person. 
 * I want to work on things that I'm deeply passionate about, and that's developer tooling. I like building things that make developers more productive in their workflow. I firmly believe that more companies should invest in improving the tools that developers use to ship great features. Most programming and infrastructure tools are still primitive, and we have a huge opportunity to innovate in this field. 
@@ -42,13 +43,13 @@ I put together some requirements to help guide me in my search.
 
 ## Why Netflix?
 
-Netflix is a unique company. It's the company that I've been admiring for a long time. I use Netflix nearly every day to watch shows and movies. I've always been impressed by the quality of the shows they can produce. I'm a movie nerd and interested in media companies, maybe because I also like to create content even if it's in the form of writing.
+Netflix is a [unique company](https://jobs.netflix.com/culture). It's the company that I've been admiring for a long time. I use Netflix nearly every day to watch shows and movies. I've always been impressed by the quality of the shows they can produce. I'm a movie nerd and interested in media companies, maybe because I also like to create content even if it's in the form of writing.
 
-Last month, I finished reading That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea, a book by Marc Randolph, which tells the founding story and the early days of Netflix. It inspired me a lot. If you read Netflix's cultural memo page, you can tell what it would look like to work there.  
+Last month, I finished reading [That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea](https://www.amazon.com/That-Will-Never-Work-Netflix-ebook/dp/B07QLL7N7D), a book by Marc Randolph, which tells the founding story and the early days of Netflix. It inspired me a lot. If you read Netflix's cultural memo page, you can tell what it would look like to work there.  
 
 The company has a strong focus on culture and real values. As someone working at Netflix, you have the freedom and responsibility to do your best work. Compared to other big tech companies, it's leaner and focused more on independent decision-making, transparency, and collaboration. 
 
-Apart from the company, I'll be working on things that I love. I'll be joining TVUI - Developer Productivity team to help TVUI engineers build industry-leading Netflix TV apps. I'll focus on driving innovation and efficiency on how developers build, test, and deploy new features. Of course, I'm incredibly excited about this opportunity and this new milestone in my life. 
+Apart from the company, I'll be working on things that I love. I'll be joining [TVUI - Developer Productivity team](https://jobs.netflix.com/jobs/871998) to help TVUI engineers build industry-leading Netflix TV apps. I'll focus on driving innovation and efficiency on how developers build, test, and deploy new features. Of course, I'm incredibly excited about this opportunity and this new milestone in my life. 
 
 I'm planning to write another blog post about Netflix, so I'll keep this part short for now.
 
