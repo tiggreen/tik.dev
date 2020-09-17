@@ -2,7 +2,7 @@
 template: post
 title: Farewell Buffer
 slug: farewell-buffer
-draft: true
+draft: false
 date: 2020-09-09T13:52:35.483Z
 description: >-
   After four and a half years working at Buffer, I will be moving on to a new
