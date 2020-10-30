@@ -7,6 +7,8 @@ draft: false
 I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
 ## 2020
+* [**Tuxedo Park**](eet-Science-Changed/dp/0684872889) - I think more people should read this book and learn about [Alfred Lee Loomis](https://en.wikipedia.org/wiki/Alfred_Lee_Loomis) who made signifant contribution in the world of science during World War II.
+* [A Walk in the Woods: Rediscovering America on the Appalachian Trail](https://www.amazon.com/Walk-Woods-Rediscovering-Appalachian-Official-ebook/dp/B000S1LSAM) - This books helped me to rediscover the rich history of American trails with the eyes of Bryson. Very inspiring.
 * [**Lifespan: Why We Age - and Why We Don't Have To**](https://www.amazon.com/Lifespan-audiobook/dp/B07QGH1Q43) - I've developed a deep interest in longevity and this book was great to learn more about modern research and things we can do to expand the span of human life. I highly recommend.
 * [Controversial Essays](https://www.amazon.com/Controversial-Essays-Hoover-Institution-Publication-ebook/dp/B001E52S96) - I wanted to read more of Thomas Sowell's writings and his book of essays was a great pick to learn different perspective on some of the political, economic and social issues.
 * [Benjamin Franklin: An American Life](https://www.amazon.com/Benjamin-Franklin-An-American-Life/dp/B004VLETYM/) - After reading his autobiography I wanted to learn more about Franklin. He is the founding father, ambitious entrepreneur and scientist who always wants to learn.
