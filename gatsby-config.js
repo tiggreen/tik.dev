@@ -15,6 +15,7 @@ module.exports = {
     siteUrl: 'https://tik.dev'
   },
   plugins: [
+    'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -112,37 +113,6 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: { trackingId: siteConfig.googleAnalyticsId }
-    },
-    {
-      resolve: 'gatsby-plugin-sitemap',
-      options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                url
-              }
-            }
-            allSitePage(
-              filter: {
-                path: { regex: "/^(?!/404/|/404.html|/dev-404-page/)/" }
-              }
-            ) {
-              edges {
-                node {
-                  path
-                }
-              }
-            }
-          }
-        `,
-        output: '/sitemap.xml',
-        serialize: ({ site, allSitePage }) => allSitePage.edges.map((edge) => ({
-          url: site.siteMetadata.url + edge.node.path,
-          changefreq: 'daily',
-          priority: 0.7
-        }))
-      }
     },
     {
       resolve: 'gatsby-plugin-manifest',
