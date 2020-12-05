@@ -12,7 +12,7 @@ module.exports = {
     disqusShortname: siteConfig.disqusShortname,
     menu: siteConfig.menu,
     author: siteConfig.author,
-    siteUrl: siteConfig.url
+    siteUrl: 'https://tik.dev'
   },
   plugins: [
     {
