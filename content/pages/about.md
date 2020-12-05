@@ -5,7 +5,9 @@ slug: about
 draft: false
 ---
 
-Hi! My name is Tigran, and I'm a senior software engineer at [Buffer](https://buffer.com). I'm interested in programming, writing, and what's in-between. I often think that I should have become a writer, but programming and writing have so much in common that I don't regret my choice. Both are tools for creation. Currently, my professional focus is on developer and infrastructure tooling.
+Hi! My name is Tigran, and I'm a senior software engineer at [Netflix](https://netflix.com) working on developer productivity. Previously I worked at [Buffer](www.buffer.com) and [Twitter](www.twitter.com).
+
+I'm interested in programming, writing, and what's in-between. I often think that I should have become a writer, but programming and writing have so much in common that I don't regret my choice. Both are tools for creation. Currently, my professional focus is on developer tools. I enjoy building tools that improve developer productivity.
 
 In my free time, I like to play soccer, watch movies, and spend time with friends and family.
 
