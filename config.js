@@ -27,17 +27,13 @@ module.exports = {
       path: '/projects',
     },
     {
-      label: 'People',
-      path: '/people',
-    },
-    {
       label: 'Հայերեն մտքեր',
       path: '/essays-in-armenian',
     },
   ],
   author: {
     name: 'Tigran Hakobyan',
-    photo: '/tigran.jpg',
+    photo: '/t.jpeg',
     bio:
       'Long-form thoughts on building software, developer tools and writing',
     contacts: {

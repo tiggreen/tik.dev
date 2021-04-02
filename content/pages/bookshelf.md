@@ -6,6 +6,9 @@ draft: false
 ---
 I enjoy reading books and always curious what others are reading. I thought I’d share my bookshelf here. Some of the books here I started but never finished. The books that I especially liked are marked bold. The list is in no particular order.
 
+## 2021
+* [**A Promised Land**](https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160)
+* [**Where Wizards Stay Up Late: The Origins Of The Internet**](https://www.amazon.com/Where-Wizards-Stay-Up-Late-ebook/dp/B000FC0WP6po)
 ## 2020
 * [**Tuxedo Park**](eet-Science-Changed/dp/0684872889) - I think more people should read this book and learn about [Alfred Lee Loomis](https://en.wikipedia.org/wiki/Alfred_Lee_Loomis) who made signifant contribution in the world of science during World War II.
 * [A Walk in the Woods: Rediscovering America on the Appalachian Trail](https://www.amazon.com/Walk-Woods-Rediscovering-Appalachian-Official-ebook/dp/B000S1LSAM) - This books helped me to rediscover the rich history of American trails with the eyes of Bryson. Very inspiring.
