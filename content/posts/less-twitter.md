@@ -5,7 +5,7 @@ slug: 'less-twitter'
 draft: false
 date: 2021-02-28
 description: >-
-    'Twitter can be a great tool for connecting with people but it also can ruin your productivity. I talk about my recent challenges with using Twitter.'
+    Twitter can be a great tool for connecting with people but it also can ruin your productivity. I talk about my recent challenges with using Twitter.
 category: "Personal"
 tags:
   - "personal"
